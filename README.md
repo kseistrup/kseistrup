@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kseistrup
-- 👀 I’m interested in nonduality.
-- 🌱 I’m currently learning Latin.
+- 👀 I’m interested in nonduality
+- 🌱 I’m currently learning Latin
 - 📫 How to reach me: https://codeberg.org/kas
 
 <!---
