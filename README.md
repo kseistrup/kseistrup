@@ -2,6 +2,8 @@
 - 👀 I’m interested in nonduality
 - 🌱 I’m currently learning Latin
 - 📫 How to reach me: https://codeberg.org/kas
+- 🗣️💬 🇩🇰 > (🇬🇧 ∨ 🇳🇴 ∨ 🇸🇪) ≫ (🇩🇪 ∨ 🇫🇷) ⋙ (🇫🇴 ∨ 🇳🇱 ∨ 🇿🇦)
+
 
 <!---
 kseistrup/kseistrup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
