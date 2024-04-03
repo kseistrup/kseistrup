@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kseistrup
-- 📚 I’m currently taking the Course
 - 📫 How to reach me: https://codeberg.org/kas
 - 🗣️💬 🇩🇰 > (🇬🇧 ∨ 🇳🇴 ∨ 🇸🇪) ≫ (🇩🇪 ∨ 🇫🇷) ⋙ (🇫🇴 ∨ 🇳🇱 ∨ 🇿🇦)
 
