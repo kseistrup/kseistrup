@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kseistrup
-- 📫 How to reach me: https://codeberg.org/kas
+- 🎁 [AUR](https://aur.archlinux.org/account/kseistrup) packager
+- 📫 `echo 0x1fd+d59decfa=40 | tr 0-9+a-f=x ka-i@p-u.l`
 - 🗣️💬 🇩🇰 > (🇬🇧 ∨ 🇳🇴 ∨ 🇸🇪) ≫ (🇩🇪 ∨ 🇫🇷) ⋙ (🇫🇴 ∨ 🇳🇱 ∨ 🇿🇦)
 
 
